@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431213857242",
+    "firebase_url": "https://text-b4131.firebaseio.com",
+    "project_id": "text-b4131",
+    "storage_bucket": "text-b4131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431213857242:android:9428a374917d03319358e3",
+        "android_client_info": {
+          "package_name": "com.sanju.text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431213857242-3glr8k7mqhke2e7qe16qbm9skf2jc0qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkNEmtdZ5DOUPBjmfleoX1lT5dKjeD-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431213857242-3glr8k7mqhke2e7qe16qbm9skf2jc0qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
